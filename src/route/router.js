@@ -58,6 +58,7 @@ export default [
   },
   {
     path: '/named-view',
+    name: 'named-view',
     components: {
       default: () => import('@/views/child.vue'),
       email: () => import('@/views/email.vue'),
