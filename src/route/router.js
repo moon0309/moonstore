@@ -67,6 +67,7 @@ export default [
   {
     // 重定向
     path: '/main',
+    path: 'main',
     // 第一种方法
     // redirect: '/'
     // 第二种方法
